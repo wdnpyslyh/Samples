@@ -1,0 +1,15 @@
+traffic sign
+car
+people
+truck
+motorcycle
+tree
+fence
+tricycle
+traffic light
+ship
+pole
+building
+stone
+bicycle
+buoy

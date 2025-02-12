@@ -1,0 +1,21 @@
+__background__ 0
+road 1
+building 2
+ramp 3
+slide_slop 4
+lawn 5
+object 6
+icysnow_land 7
+sand_road 8
+tree 9
+human 10
+water 11
+beach 12
+mountain 13
+coastline 14
+sand 15
+car 16
+ship 17
+sidewalk 18
+traffic sign 19
+sky 20
